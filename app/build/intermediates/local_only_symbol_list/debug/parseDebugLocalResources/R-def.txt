@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable assistant_icon
+drawable home_icon
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable insight
+id ai_menu
+id bottomNavigationbar
+id frame_layout
+id home_menu
+id insight_menu
+id main
+layout activity_main
+layout fragment_ai
+layout fragment_home
+layout fragment_insight
+menu bottom_nav_bar
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Musify
+style Theme.Musify
+xml backup_rules
+xml data_extraction_rules
